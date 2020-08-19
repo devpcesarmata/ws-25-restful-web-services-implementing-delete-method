@@ -9,5 +9,4 @@ public class Ws25RestfulWebServicesImplementingDeleteMethodApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Ws25RestfulWebServicesImplementingDeleteMethodApplication.class, args);
 	}
-
 }
